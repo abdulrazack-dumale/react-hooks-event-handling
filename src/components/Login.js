@@ -1,5 +1,3 @@
-import React from "react";
-
 function Login() {
   function handleSubmit(event) {
     event.preventDefault();
